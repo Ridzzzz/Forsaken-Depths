@@ -4,7 +4,22 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - particle
+  - Terrain
+  - TopGen
+  - RightGen
+  - BottomGen
+  - LeftGen
+  - BufferVision
+  - ActualVision
+  - Enemy
+  - Obstacle
+  - MenuButton
+  - ExpShard
+  - HpShard
+  - DamageUiText
+  - HealingUiText
+  - ExpUiText
+  - PlayerTest
   layers:
   - Default
   - TransparentFX
@@ -14,12 +29,12 @@ TagManager:
   - UI
   - 
   - 
-  - PostProcessing
   - Unwalkable
-  - 
-  - 
-  - 
-  - 
+  - Walkable
+  - WorldBoundary
+  - Player
+  - Enemy
+  - Consumable
   - 
   - 
   - 

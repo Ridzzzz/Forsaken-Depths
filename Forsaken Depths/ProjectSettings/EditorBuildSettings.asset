@@ -6,6 +6,19 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
-  m_configObjects: {}
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/StartUp.unity
+    guid: 96bdb29a968c09041ac1ffdfd84f19f4
+  - enabled: 0
+    path: Assets/Scenes/In-Game.unity
+    guid: 548ef7f75c54d2748849e7f7b42e60a9
+  - enabled: 0
+    path: Assets/Scenes/Death-Screen.unity
+    guid: 3763f683f1eb3cf46a4c98a03b59d902
+  m_configObjects:
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: 9421a8fd6ef946b459ee726c47156726,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 47d6e45a019bf314786e8b0932f1dc54,
+      type: 2}
